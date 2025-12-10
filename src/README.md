@@ -1,2 +1,1 @@
-# BeePlan
-İlk deneme commit'i
+github deneme
