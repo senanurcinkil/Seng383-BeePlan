@@ -1,0 +1,4 @@
+[
+  {"name": "Room A", "type": "theory", "capacity": 80},
+  {"name": "Lab 1", "type": "lab", "capacity": 40}
+]

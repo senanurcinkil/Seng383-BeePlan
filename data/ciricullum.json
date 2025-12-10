@@ -1,0 +1,7 @@
+[
+  {"code": "CENG101", "name": "Intro to Computing", "year": 1, "type": "theory", "hours": 2, "instructor": "Dr. X"},
+  {"code": "CENG101L", "name": "Computing Lab", "year": 1, "type": "lab", "hours": 2, "instructor": "Dr. X", "linkedTheory": "CENG101"},
+  {"code": "CENG301", "name": "Algorithms", "year": 3, "type": "theory", "hours": 2, "instructor": "Dr. Y"},
+  {"code": "CENG401E", "name": "AI Elective", "year": 4, "type": "theory", "hours": 2, "instructor": "Dr. Z", "elective": true, "dept": "CENG"},
+  {"code": "SENG401E", "name": "Software Elective", "year": 4, "type": "theory", "hours": 2, "instructor": "Dr. W", "elective": true, "dept": "SENG"}
+]
